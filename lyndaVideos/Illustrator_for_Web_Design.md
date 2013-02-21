@@ -1,4 +1,4 @@
-Videos Watched on Lynda.com - Illustrator For Web Design
+	Videos Watched on Lynda.com - Illustrator For Web Design
 
 Watch following videos on 2/17/2013:
 
@@ -47,3 +47,22 @@ Watch the following videos on 2/19/2013:
 	elements that are put on the page.  Also creating butons was something I
 	looked forward to learning because I feel they are an important part of the
 	mockup.  I feel it seperates a cheap mockup from a good mockup.
+
+Watched the following videos on 2/21/2013:
+
+	Optimizing Web Graphics  
+	Creating Image Sprites  
+	Integrating with Other Apps  
+	Conclusion
+
+	What I learned from thie is how to slice up in Illustrator, differentiating web file formats,
+	which formats are suitable for different images, the use of image sprites, and working with
+	AI files in other Adobe programs and vice versa.  The most important topic about these videos
+	was learning/seeing how to slice up images and then exporting them to HTML.  This is very
+	important because ultimately getting the HTML code from Illustrator will make the coding
+	process very easy.  The image sprites were kind of confusing even after researching some
+	information about them but I understood the idea of what they could do.  What I look forward
+	to is working with SVG graphics which seem very fascinating in their scalability and image
+	size aspect.
+
+Finished watching the Illustrator for Web Design on 2/21/2013.
